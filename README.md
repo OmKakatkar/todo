@@ -1,3 +1,8 @@
+# Descriptiom
+A Todo list app made with react and firebase. Hosting done on firebase.
+Add or delete your entries.
+You can even strike out the entries if you are done with the task.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
